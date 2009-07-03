@@ -2,11 +2,11 @@
 	Mailplane Hide Gmail Ads CSS
 ----------------------------------------------------- */
 
-/* -- [ Hide the ads ] -- */
+/* Hide the ads */
 .oM,
 .u7,
 .V3vJRb,
 .yxEQwb { display: none; }
 
-/* -- [ Hide the footer ] -- */
-.l2 { display: none; }
+/* Un-comment to hide the footer */
+/* .l2 { display: none; } */
